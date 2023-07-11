@@ -10,10 +10,10 @@ Terraform Modules
 
 Contains the ASG, ALB and related resources for the application to run and route traffic.
 
-#### VPC
+### VPC
 
 Contains the networking resources and configuration.
 
-#### Organizations
+### Organizations
 
 Declares the organization service control policies.
