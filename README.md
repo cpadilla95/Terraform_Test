@@ -6,14 +6,14 @@ Within accounts, you can define the multiple environments where you want to depl
 
 Terraform Modules
 
-#### App
+### App
 
 Contains the ASG, ALB and related resources for the application to run and route traffic.
-
-### VPC
-
-Contains the networking resources and configuration.
 
 ### Organizations
 
 Declares the organization service control policies.
+
+### Vpc
+
+Contains the networking resources and configuration.
